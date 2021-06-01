@@ -1,0 +1,41 @@
+form{
+	width: 35%;
+	margin-top: 12%;
+	margin-left: 30%; 
+	border: solid 1px;
+	height: 450px;
+	border-radius: 8px;
+}
+table{
+	width: 100%;
+}
+.h1{
+	padding-left: 28%;
+	width: 50%;
+}
+td{
+	margin-left: 5%;
+	padding-bottom: 8px;
+}
+input[type="checkbox"]{
+	margin-left: 15px;
+}
+input[type="file"]{
+	margin-left: 15px;
+}
+tr{
+	width: 20px;
+	margin-left: 5%;
+}
+img{
+	height: 85px;
+}
+input{
+	margin-left: 38%;
+}
+.label{
+	margin-left: 38%;
+}
+input[type="file"]{
+	margin-left: 38%;
+}

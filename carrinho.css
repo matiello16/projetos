@@ -1,0 +1,31 @@
+.tabela{
+	top: 75%;
+	left: 45%;
+	position: absolute;
+	transform: translate(-40%, -50%);
+	width: 35%;
+	height: 800px;
+	border: solid 1px;
+	text-align: center;
+}
+table{
+	margin-left: 15%;
+	border: solid 0.8px;
+	padding-top: 2%;
+}
+.conteudo{
+	width: 20%;
+}
+.topo{
+	width: 100%;
+}
+img{
+	height: 90px;
+}
+.table{
+	width: 100%;
+	padding-top: 2px; 
+}
+hr{
+	width: 90%;
+}

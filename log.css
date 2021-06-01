@@ -1,0 +1,48 @@
+form{
+	width: 25%;
+	margin-top: 12%;
+	margin-left: 35%; 
+	border: solid 1px;
+	height: 300px;
+	border-radius: 8px;
+}
+table{
+	width: 100%;
+	height: 100%;
+}
+input[type="text"]{
+	margin-left: 20%;
+	width: 90%;
+	margin-bottom: 3%;
+}
+
+input[type="password"]{
+	margin-left: 20%;
+	width: 90%;
+	margin-bottom: 5%;
+}
+.h1{
+	padding-top: 4%;
+	padding-left: 30%;
+}
+input[type="submit"]{
+	margin-left: 20%;
+	width: 2%;
+}
+img{
+	height: 75px;
+
+}
+td{
+	margin-left: 5%;
+	padding-bottom: 8px;
+}
+tr{
+	width: 20px;
+	margin-left: 5%;
+}
+.img{
+	float: right;
+	margin-right: 145%;
+	margin-top: 4%;
+}

@@ -1,0 +1,43 @@
+div.tabela{
+	border: solid 3px;
+	width: 40%;
+	top: 40%;
+	left: 45%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	height: 300px;
+}
+.topo{
+	width: 100%;
+	text-align: center;
+}
+hr{
+	width: 70%;
+}
+.imagem{
+	width: 100%;
+	text-align: center;
+}
+img{
+	width: 40%;
+}
+.conteudo{
+	width: 100%;
+}
+.links{
+	width: 100%;
+	text-align: center;
+	padding-top: 4%;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-style: 15pt;
+	color: #000;
+}
+a:hover{
+	color: blue;
+	font-style: italic;
+	font-family: sans-serif;
+}

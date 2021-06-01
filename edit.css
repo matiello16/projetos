@@ -1,0 +1,54 @@
+div.form{
+	height: 570px;
+	width: 450px;
+	border: solid 1px #74b9ff;
+	border-radius: 3px;
+	margin-top: 12%;
+	margin-left: 35%;
+	font-family: Calibri;
+}.cabeca{
+	width: 100%;
+}
+table{
+	height: 100%;
+	width: 100%;
+}
+hr{
+	width: 370px;
+	height: 0.5px;
+	background-color: #0652DD;
+}
+h1{
+	padding-left: 160px;
+	color: #0652DD;
+}
+td.info{
+	padding-left: 25px;
+	padding-bottom: 1%;
+}
+p.foto{
+	padding-top: 13px;
+}
+a{
+	text-decoration: none;
+	color: #000;
+	font-family: monospace;
+}
+a:hover{
+	color: blue;
+	font-style: italic;
+	font-family: sans-serif;
+
+}
+.imagem{
+	width: 100%;
+}
+.links{
+	padding-left: 5%;
+}
+input[type="submit"]{
+	margin-top: 4%;
+	width: 40%;
+	height: 30px;
+	margin-left: 25%;
+}

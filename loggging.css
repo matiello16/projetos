@@ -1,0 +1,13 @@
+.table{
+	border: solid 2px #74b9ff;
+	width: 30%;
+	top: 50%;
+	left: 45%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	font-family: sans-serif;
+	text-align: center;
+}
+img{
+	height: 90px;
+}
